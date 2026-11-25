@@ -1,0 +1,11 @@
+id,tipo,accion,temp_baja,temp_alta,peso_bajo,peso_cae,caida_brusca,peso_grande,gana_peso,peso_alto,sin_banda_250,tonos_piping,silencio,irregular
+A0,—,Sin acción: seguir monitoreando,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+A1,Revisar,Revisar la colmena (estado y postura de la reina),0.7,0.0,0.0,0.3,0.8,0.0,0.0,0.0,0.9,0.9,0.6,0.6
+A2,Alimentar,Alimentar,0.0,1.0,0.9,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.7,0.0
+A3,Optimizar,Poner alza,0.0,0.0,0.0,0.0,0.0,0.0,0.3,1.0,0.0,0.4,0.0,0.0
+A4,Optimizar,Quitar alza,0.0,0.0,0.7,0.4,0.0,0.0,0.0,0.0,0.0,0.0,0.7,0.0
+A5,Optimizar,Poner trampa de polen,0.0,0.0,0.0,0.0,0.0,1.0,0.8,0.3,0.0,0.0,0.0,0.0
+A6,Optimizar,Quitar trampa de polen,0.0,0.0,0.6,0.5,0.0,0.0,0.0,0.0,1.0,0.0,0.6,0.0
+A7,Optimizar,Quitar alimentador,0.0,0.0,0.0,0.0,0.0,0.6,0.9,0.7,0.0,0.0,0.0,0.0
+A8,Recolectar,Recolectar la miel,0.0,0.0,0.0,0.0,0.0,0.0,0.3,1.0,0.0,0.0,0.0,0.0
+A9,Alimentar,Poner alimentador,0.0,0.0,0.9,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.7,0.0

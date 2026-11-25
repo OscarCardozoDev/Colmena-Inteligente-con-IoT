@@ -1,0 +1,5 @@
+conjunto,sistema,Precision@3,Recall@3,Acierto@3
+Todas las horas,Basado en contenido,0.562,0.945,0.952
+Todas las horas,Popularidad,0.362,0.729,0.95
+Solo horas con problema u oportunidad,Basado en contenido,0.687,0.917,0.927
+Solo horas con problema u oportunidad,Popularidad,0.378,0.582,0.923

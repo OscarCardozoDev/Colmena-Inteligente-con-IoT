@@ -1,0 +1,14 @@
+colmena,evento,problema_presente_desde,horas_hasta_detectar,horas_de_anticipacion_a_la_salida
+C01,frio,2026-09-03 12:00:00,5.0,
+C01,reservas_bajas,2026-09-11 07:00:00,136.0,
+C02,calor,2026-09-05 10:00:00,3.0,
+C02,orfandad,2026-09-10 07:00:00,16.0,
+C02,calor,2026-09-25 10:00:00,2.0,
+C03,enjambrazon,2026-09-04 08:00:00,5.0,115.0
+C03,frio,2026-09-22 05:00:00,1.0,
+C04,calor,2026-09-06 11:00:00,1.0,
+C04,orfandad,2026-09-18 17:00:00,19.0,
+C05,calor,2026-09-03 11:00:00,2.0,
+C05,colonia_debil,2026-09-16 03:00:00,23.0,
+C06,en_crecimiento,2026-09-05 00:00:00,4.0,
+C06,enjambrazon,2026-09-22 11:00:00,24.0,96.0

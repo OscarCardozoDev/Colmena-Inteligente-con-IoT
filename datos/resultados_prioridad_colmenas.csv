@@ -1,0 +1,13 @@
+colmena,horas_rojo,horas_amarillo,horas_azul,horas_verde,estado_mas_frecuente,accion_principal,periodo
+C01,332,39,0,349,reservas_bajas,Poner alimentador,1-30 sep
+C05,311,44,0,365,colonia_debil,Quitar alza,1-30 sep
+C04,279,13,0,428,orfandad,Quitar trampa de polen,1-30 sep
+C02,165,14,0,541,orfandad,Revisar la colmena (estado y postura de la reina),1-30 sep
+C03,140,39,0,541,enjambrazon,Revisar la colmena (estado y postura de la reina),1-30 sep
+C06,121,0,439,160,en_crecimiento,Revisar la colmena (estado y postura de la reina),1-30 sep
+C01,332,5,0,23,reservas_bajas,Poner alimentador,16-30 sep
+C05,304,36,0,20,colonia_debil,Quitar alza,16-30 sep
+C04,271,5,0,84,orfandad,Quitar trampa de polen,16-30 sep
+C06,121,0,179,60,enjambrazon,Revisar la colmena (estado y postura de la reina),16-30 sep
+C02,37,6,0,317,orfandad,Revisar la colmena (estado y postura de la reina),16-30 sep
+C03,0,39,0,321,frio,Revisar la colmena (estado y postura de la reina),16-30 sep
